@@ -25,3 +25,4 @@ get_filters():
 ### Credits
 [1]https://github.com/udacity/pdsnd_github
 [2]https://www.makeareadme.com/
+[3] https://wordpress.com/support/markdown-quick-reference/
