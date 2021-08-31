@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+A python program that uses bikeshare data from three cities and computes statistics. The program gives the user the option to choose from Chicago, New York City, or Washington. The user can then choose to filter the data by month and day of the week.
 
 ### Files used
 Include the files used
