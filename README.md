@@ -3,14 +3,25 @@
 ### 30 August 2021
 Include the date you created this project and README file.
 
-### Bikeshare Project
+### <*Bikeshare Project*>
 Replace the Project Title
 
-### Description
-A python program that uses bikeshare data from three cities and computes statistics. The program gives the user the option to choose from Chicago, New York City, or Washington. The user can then choose to filter the data by month and day of the week.
+### *Description*
+python
+```
+#Asks user to specify a city, month, and day to analyze.
+#Returns: city, month, day
+get_filters():
+
+
+    ```
 
 ### Files used
-Include the files used
+#Include the files used
+[1] chicago.csv
+[2] new_york_city.csv
+[3] washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[1]https://github.com/udacity/pdsnd_github
+[2]https://www.makeareadme.com/
