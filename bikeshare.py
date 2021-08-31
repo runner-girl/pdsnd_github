@@ -185,7 +185,7 @@ def user_stats(df):
         print('Most Common Birth Year:', most_common_year)
 
         middle = df['Birth Year'].median()
-        print('Median Birth Year:' middle)
+        print('Median Birth Year:', middle)
     else:
         print('Birth Year data not avalible')
 
