@@ -7,7 +7,7 @@ Created on 30 August 2021
 Udacity Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+The Udcacity Bikeshare projects examines the data from three city bikeshare programs. Users have the option to select a either Chigaco, New York City, or Washington as a city. Users can then filter the data by month and the day of the week. The program calculates statistics of the bikeshare data specified by the user.
 
 ### Files used
 chicago.csv
@@ -16,4 +16,3 @@ washington.csv
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
